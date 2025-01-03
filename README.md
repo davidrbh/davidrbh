@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     <!-- User Bio -->
-    Hello, I am David Barrera. Computer engineer with a passion for technology and a good sense of humor. Specialized in backend web development. Recently I have discovered my passion for machine learning and am excited to apply my knowledge to challenging situations. Additionally, I strive to maintain a positive and proactive attitude, which allows me to build quality software and foster confidence in myself and my team.
+    Hello, I am David Barrera. Software engineer with a passion for technology and a good sense of humor. Specialized in backend web development. Recently I have discovered my passion for machine learning and am excited to apply my knowledge to challenging situations. Additionally, I strive to maintain a positive and proactive attitude, which allows me to build quality software and foster confidence in myself and my team.
   </samp>
 </p>
 
